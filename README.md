@@ -4,17 +4,6 @@ Welcome to Rental System! This project provides a seamless and intuitive platfor
 
 ---
 
-## 👨‍💻 About The Team  
-
-- **Lawrence Al-khalaileh**: Scrum Master  
-- **Mohammed Alhmoud**: Product Owner
-- **Hasan Mansour**: QA Specialist  
-- **Hareth Aljundi**: Developer  
-- **Rana Salameh**: Developer
-- **Marya Benyan**: Developer
-
----
-
 ## 📄 Pages  
 1. **Home Page**  
 2. **Admin Dashboard**  
@@ -61,5 +50,11 @@ Explore the wireframes and mockups for the project design on Figma:
 ## 📋 Trello Board  
 Track project progress and tasks on Trello:  
 👉 [Trello Board](https://trello.com/b/RIH7SYpI/rental-website)
+
+
+## 👨‍💻 Done by:  
+
+- **Lawrence Al-khalaileh**
+
 
 
