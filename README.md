@@ -52,9 +52,4 @@ Track project progress and tasks on Trello:
 👉 [Trello Board](https://trello.com/b/RIH7SYpI/rental-website)
 
 
-## 👨‍💻 Done by:  
-
-- **Lawrence Al-khalaileh**
-
-
 
